@@ -90,7 +90,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'quizsayt',
-        'USER': 'postgres',
+        'USER': 'quizsayt_user',
         'PASSWORD': '19812008',
         'HOST': '127.0.0.1',
         'PORT': '5432',
