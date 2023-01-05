@@ -91,7 +91,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'quizsayt',
         'USER': 'quizsayt_user',
-        'PASSWORD': '19812008',
+        'PASSWORD': '4bxsPIxFINFwi4S2pTBG06CNmHjZgzL9',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
